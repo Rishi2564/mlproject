@@ -2,7 +2,7 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+ml_project.egg-info
 # C extensions
 *.so
 
