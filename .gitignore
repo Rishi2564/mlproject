@@ -5,7 +5,7 @@ __pycache__/
 ml_project.egg-info
 # C extensions
 *.so
-
+catboost_info
 # Distribution / packaging
 .Python
 build/
